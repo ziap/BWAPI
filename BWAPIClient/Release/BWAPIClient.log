@@ -1,0 +1,16 @@
+﻿  BulletImpl.cpp
+  BulletShared.cpp
+  Client.cpp
+  ForceImpl.cpp
+  ForceShared.cpp
+  GameImpl.cpp
+  GameShared.cpp
+  PlayerImpl.cpp
+  PlayerShared.cpp
+  RegionImpl.cpp
+  RegionShared.cpp
+  UnitImpl.cpp
+C:\Users\Zap\BWAPI\BWAPIClient\Source\Convenience.h(22,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. (compiling source file Source\GameImpl.cpp)
+C:\Users\Zap\BWAPI\BWAPIClient\Source\GameImpl.cpp(45): message : see reference to function template instantiation 'void StrCopy<1024>(char (&)[1024],const char *)' being compiled
+  UnitShared.cpp
+  BWAPIClient.vcxproj -> C:\Users\Zap\BWAPI\Release\BWAPIClient.lib
